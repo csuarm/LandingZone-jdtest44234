@@ -11,7 +11,7 @@
   "resources": [
     {
       "type": "Microsoft.Subscription/subscriptions",
-      "name": "jdtest44234",
+      "name": "espen-test",
       "apiVersion": "2021-10-01",
       "location": null,
       "tags": null,
