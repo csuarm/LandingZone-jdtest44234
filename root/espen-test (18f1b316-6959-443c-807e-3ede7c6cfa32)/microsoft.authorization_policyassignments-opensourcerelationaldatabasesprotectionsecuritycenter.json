@@ -12,17 +12,16 @@
     {
       "type": "Microsoft.Authorization/policyAssignments",
       "name": "OpenSourceRelationalDatabasesProtectionSecurityCenter",
+      "kind": "policyassignments",
       "apiVersion": "2022-06-01",
-      "location": null,
+      "location": "global",
       "properties": {
-        "Description": "This policy assignment was automatically created by Azure Security Center",
-        "DisplayName": "ASC OpenSourceRelationalDatabasesProtection (subscription: 18f1b316-6959-443c-807e-3ede7c6cfa32)",
-        "EnforcementMode": "Default",
-        "NonComplianceMessages": null,
-        "NotScopes": null,
-        "Parameters": null,
-        "PolicyDefinitionId": "/providers/Microsoft.Authorization/policySetDefinitions/e77fc0b3-f7e9-4c58-bc13-cb753ed8e46e",
-        "Scope": "/subscriptions/18f1b316-6959-443c-807e-3ede7c6cfa32"
+        "description": "This policy assignment was automatically created by Azure Security Center",
+        "displayName": "ASC OpenSourceRelationalDatabasesProtection (subscription: 18f1b316-6959-443c-807e-3ede7c6cfa32)",
+        "enforcementMode": "Default",
+        "metadata": {},
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policySetDefinitions/e77fc0b3-f7e9-4c58-bc13-cb753ed8e46e",
+        "scope": "/subscriptions/18f1b316-6959-443c-807e-3ede7c6cfa32"
       }
     }
   ],
