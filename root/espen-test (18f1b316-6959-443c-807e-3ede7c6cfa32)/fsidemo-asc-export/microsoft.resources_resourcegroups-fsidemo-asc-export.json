@@ -10,12 +10,11 @@
   "variables": {},
   "resources": [
     {
-      "type": "Microsoft.Subscription/subscriptions",
-      "name": "espen-test",
-      "apiVersion": "2021-10-01",
-      "location": null,
-      "tags": null,
-      "properties": null
+      "type": "Microsoft.Resources/resourceGroups",
+      "name": "FSIDemo-asc-export",
+      "apiVersion": "2019-05-01",
+      "location": "westeurope",
+      "properties": {}
     }
   ],
   "outputs": {}
