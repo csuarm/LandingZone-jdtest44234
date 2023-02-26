@@ -11,7 +11,7 @@
   "resources": [
     {
       "type": "Microsoft.Resources/resourceGroups",
-      "name": "ESIndustry-asc-export",
+      "name": "conops-vnet-westeurope",
       "apiVersion": "2019-05-01",
       "location": "westeurope",
       "properties": {}
