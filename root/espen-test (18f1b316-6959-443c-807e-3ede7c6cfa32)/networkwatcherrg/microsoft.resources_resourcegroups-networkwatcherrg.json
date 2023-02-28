@@ -11,7 +11,7 @@
   "resources": [
     {
       "type": "Microsoft.Resources/resourceGroups",
-      "name": "kvtest",
+      "name": "NetworkWatcherRG",
       "apiVersion": "2019-05-01",
       "location": "westeurope",
       "properties": {}
