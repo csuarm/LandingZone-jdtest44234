@@ -11,7 +11,7 @@
   "resources": [
     {
       "type": "Microsoft.Resources/resourceGroups",
-      "name": "mbuss10-tst-services-rg",
+      "name": "mbuss11-tst-services-rg",
       "apiVersion": "2019-05-01",
       "location": "eastus",
       "tags": {},
